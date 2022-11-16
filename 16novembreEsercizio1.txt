@@ -1,0 +1,7 @@
+Creare un container a partire dall'immagine adejonge/helloworld.
+Il container deve essere raggiungibile dalla rete locale conu un indirizzo IP fisso a partire da 192.168.178.50 secondo la seguente allocazione:
+
+ALESSANDRO FLORIS -> 192.168.178.50
+ARCURI VALENTINO -> 192.168.178.51
+BOLLINI ALESSANDRO -> 192.168.178.52
+...
