@@ -1,0 +1,1 @@
+Salvare nella propria home directory un file chiamato statisticheDocker che contiene il risultato di docker stats
