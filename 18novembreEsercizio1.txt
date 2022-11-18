@@ -1,0 +1,16 @@
+1) interrompere e cancellare il containere creato mercoledì
+2) scolgere l'esercizio della pagina 22 tenendo conto della seguente corrispondenza di indirizzi
+
+luca ermini			192.168.178.50
+mingione mattia		192.168.178.51
+casino matteo		192.168.178.52
+calogero giudice	192.168.178.53
+alessandro floris	192.168.178.54
+daniela melchionna	192.168.178.55
+ilaria fortunato	192.168.178.56
+stefano caturano	192.168.178.57
+gaetano lagamba		192.168.178.58
+francesca sanzò		192.168.178.59
+valentino arcuri	192.168.178.60
+giampiero lonoce	192.168.178.61
+alessandro bollini	192.168.178.62
