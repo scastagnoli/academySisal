@@ -1,0 +1,1 @@
+Seguendo il tutorial presente nella pagina ufficiale del progetto Spring creare un'immagine che permetta di mettere in esecuzione un progetto Spring che raggiunto visualizza un messaggio di saluto.
