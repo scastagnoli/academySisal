@@ -1,5 +1,5 @@
 Avviare due container Nginx.
-I due container dovranno essere raggiungibili in entrambi i casi:
+I due container dovranno essere raggiungibili in entrambi i casi (1 e 2):
 	1) dalla rete privata Docker sulla porta 80
 	2) dalle LAN a cui appartiene il Docker Engine
 	3) il contenuto della pagina index.html deve essere personalizzato a piacere. Modificando il file una sola volta la modifica deve essere operativa per entrambi i web server. Del contenuto della document root personalizzato deve essere eseguito il backup seguendo le istruzioni della pagina 31 degli appunti.
